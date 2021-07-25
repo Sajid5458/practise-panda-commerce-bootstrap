@@ -1,12 +1,9 @@
-.body{
-    margin: 0;
-    padding: 0;
-}
+
 .panda-bg-info{
     background-color: #FEEAE9;
 }
 .slider-section{
-    margin: 100px 0;
+    margin-top: 100px;
 }
 .categories{
     width: 100px;
