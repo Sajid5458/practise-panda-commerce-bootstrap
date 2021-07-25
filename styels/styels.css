@@ -1,0 +1,23 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.panda-bg-info{
+    background-color: #FEEAE9;
+}
+.slider-section{
+    margin: 100px 0;
+}
+.categories{
+    width: 100px;
+}
+.panda-btn-balck , .panda-btn-cherry{
+    border: none;
+    border-radius: 6px;
+    padding: 14px 20px;
+    background-color: #000000;
+    color: white;
+}
+.panda-btn-cherry{
+    background-image: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
